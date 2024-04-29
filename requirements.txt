@@ -1,2 +1,8 @@
+happytransformer
 fastapi
 uvicorn
+# transformers
+# huggingface_hub
+# python-multipart
+# torch
+# python-dotenv
